@@ -6,9 +6,6 @@ I'm a Computer science graduate student at Arizona State University.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dhruv-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvpopat/) [![Mail Badge](https://img.shields.io/badge/-@dhruv_2912-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dhruv_2912/) [![Mail Badge](https://img.shields.io/badge/-dhruvpopat2912-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhruvpopat2912@gmail.com)
 
-<br />
-<br />
-
 #### Languages, Frameworks, Libraries and Tools
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -36,10 +33,6 @@ I'm a Computer science graduate student at Arizona State University.
 <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Android-informational?style=for-the-badge&logo=android&color=4A3677">&nbsp;
 <!--<img src="https://img.shields.io/badge/-Tableau-informational?style=for-the-badge&logo=tableau&color=4A3677">&nbsp;-->
-
-<br />
-<br />
-
 
 <!--
 **Dhruv2912/Dhruv2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
